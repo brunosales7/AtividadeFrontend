@@ -20,6 +20,6 @@
 
 
 >6.Na pagina incial foi feito uma lista de comandos e foi colocado um video explicativo<br>
-
+gg
 
 
